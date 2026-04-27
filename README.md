@@ -162,7 +162,7 @@ experience:
 | 2024 - Present | React & React Native Developer | **TechExa** |
 | 2024 | React Native Developer | **HyseTech** |
 | 2022 | App Development Intern | **Code Alpha** |
-| 2019 - 2023 | BS Computer Science | **IIUI** (CGPA: 3.6) |
+| 2020 - 2024 | BS Computer Science | **IIUI** (CGPA: 3.6) |
 
 ---
 
